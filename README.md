@@ -2,7 +2,7 @@ Categories
 * Coding Guideline
     * Web Development
 	* Basic Coding Conventions
-		* Basic coding should follow PSR-12 including PSR-2 .
+		* Basic coding should follow <a href="https://www.php-fig.org/psr/psr-12/">PSR-12</a> including <a href="https://www.php-fig.org/psr/psr-2/">PSR-2</a> .
 		* All kinds of typos and spelling mistakes should be avoided at any cost. Codes should not be merged with typos and spelling mistakes and no excuses should be entertained in this case. Same thing should be applied in the database also. 
 		* In addition to PSR-2 and PSR-12, all classes, variables, objects, models names should be noun or noun equivalents. All method names should start with a verb. 
 		* Code uniformity should be maintained in all cases. 
@@ -38,7 +38,7 @@ Categories
 		* Files should not contain characters before "<?php".
 		* Errors should not be silenced.
 
-		You can check out this page for more rules…….
+		You can check out <a href="https://rules.sonarsource.com/php">this page</a> for more rules…….
     * Admin Panel
         * Boilerplate
         * Database
