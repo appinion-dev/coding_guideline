@@ -49,7 +49,7 @@ Categories
     * Third Party Library
 * App Development
     * Language
-	* Kotlin
+    	* Kotlin
     * Architecture
         * MVVM
         * Jetpack
@@ -58,7 +58,7 @@ Categories
 		* Navigation Controller
 		* Workmanager
     * Thread
-	* Kotlin Coroutines
+    	* Kotlin Coroutines
     * Dependency Injection
         * Dagger 2
 	* HILT
