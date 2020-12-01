@@ -69,7 +69,7 @@ Categories
     * Database 
         * Room DB
         * Realm DB
-    * Project package Architecture: 
+    * Project package Architecture
 	* App
 		* Common
 			* Base activity 
