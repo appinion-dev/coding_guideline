@@ -42,17 +42,26 @@ Categories
     * Admin Panel
         * Boilerplate
         * Database
-            * MySql version 5.7
+        * MySql version 5.7
     * Front End
         * Bootstrap
         * Vue JS
     * Third Party Library
 * App Development
     * Language
-	    * Kotlin
+	* Kotlin
     * Architecture
         * MVVM
         * Jetpack
+		* Livedata
+		* Databinding
+		* Navigation Controller
+		* Workmanager
+    * Thread
+	* Kotlin Coroutines
+    * Dependency Injection
+        * Dagger 2
+	* HILT
     * Ui/Ux
         * Material Design
     * Network
@@ -60,7 +69,33 @@ Categories
     * Database 
         * Room DB
         * Realm DB
-    * Third Party Library
+    * Project package Architecture: 
+	* App
+		* Common
+			* Base activity 
+			* Base fragment 
+			* Application class 
+			* Sealed class for data state 
+		* Feature 
+			* F1 
+				* View 
+				* Adapter 
+				* viewmodel 
+		* Utils 
+		* DI 
+		* Datamodel 
+			* Request Model 
+			* Response Model 
+			* Model 
+		* Network 
+			* Api Endpoint constant file 
+			* Api interface  
+		* Repository 
+ 
+ 
+    
+    
+    
 * API Development
     * Boilerplate
     * Sails.js
